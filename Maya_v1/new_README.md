@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Maya%20%F0%9F%A4%96&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=A%20Transformer%20built%20from%20first%20principles&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+
+<img src="Maya_v1/images/logo.png" width="140"/>
+
+# Maya 🤖
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Encoder-Decoder+Transformer+from+scratch;Custom+BPE+Tokenizer+%2B+NumPy+only;Greedy+%26+Beam+Search+Decoding;2.91M+parameters%2C+zero+deep+learning+frameworks;Built+by+a+student%2C+layer+by+layer.&font=Fira+Code&center=true&width=780&height=50&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=22&repeat=true"/>
 
@@ -36,10 +40,10 @@ The long-term vision is to evolve Maya into a modular AI assistant capable of in
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
 
-## 🛠️ Built With
+## 🛠️ Built With *(Development Only)*
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,numpy,flask&theme=dark" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
@@ -202,7 +206,7 @@ http://127.0.0.1:5000
 
 ## 🎥 Demo
 
-A demonstration of Maya V1 is available in **[Demo.md](Demo.md)**.
+A demonstration of Maya V1 is available in **[Demo.md](Maya_v1/Demo.md)**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
 
