@@ -213,8 +213,11 @@ http://127.0.0.1:5000
 
 ## 🎥 Demo
 
-A demonstration of Maya V1 is available in **[Demo.md](demo.md)**.
+Watch Maya V1 in action:
 
+**▶️ YouTube Demo:** https://youtu.be/-I70Qu9lN6I
+
+For more details, see [Demo.md](demo.md).
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
 
 ## 🗺️ Roadmap
