@@ -91,11 +91,11 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 
 ### Greeting Conversation
 
-[![Conversation](Maya_v1/images/chatbot1.png)](Maya_v1/images/chatbot1.png)
+![Greetng Conversation](Maya_v1/images/chatbot1.png)
 
 ### Sample Conversation
 
-![Conversation](Maya_v1/images/chatbot2.png)
+![Conversation](Maya_v1/images/chatbot1.png)
 
 ---
 
