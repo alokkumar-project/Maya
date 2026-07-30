@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
 
-<img src="images/maya_logo.png" width="140"/>
-
-# Maya 🤖
+<img src="images/maya_logo.png" width="180"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Encoder-Decoder+Transformer+from+scratch;Custom+BPE+Tokenizer+%2B+NumPy+only;Greedy+%26+Beam+Search+Decoding;2.91M+parameters%2C+zero+deep+learning+frameworks;Built+by+a+student%2C+layer+by+layer.&font=Fira+Code&center=true&width=780&height=50&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=22&repeat=true"/>
 
@@ -13,7 +11,6 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](#)
 
 [![Stars](https://img.shields.io/github/stars/alokkumar-project/Maya?style=for-the-badge&color=gold)](https://github.com/alokkumar-project/Maya/stargazers)
 [![Forks](https://img.shields.io/github/forks/alokkumar-project/Maya?style=for-the-badge&color=blue)](https://github.com/alokkumar-project/Maya/network/members)
@@ -43,7 +40,11 @@ The long-term vision is to evolve Maya into a modular AI assistant capable of in
 ## 🛠️ Built With *(Development Only)*
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,numpy,flask&theme=dark" />
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
@@ -130,7 +131,7 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 
 <div align="center">
 
-### Greeting Conversation
+### Sample Conversation
 <img src="images/chatbot1.png" width="70%"/>
 
 ### Sample Conversation
