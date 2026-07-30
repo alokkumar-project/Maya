@@ -1,6 +1,6 @@
 # Maya 🤖
 
-> **A Transformer-based Conversational AI implemented from first principles using Python and NumPy.**
+> **An educational and engineering project that implements a Transformer-based conversational AI from first principles using Python and NumPy.**
 
 Maya is an open-source project focused on understanding and implementing modern Natural Language Processing architectures from scratch. Instead of relying on deep learning frameworks, Maya reimplements the core components of a Transformer-based conversational AI to provide a transparent and educational codebase for learning, experimentation, and future research.
 
@@ -88,6 +88,23 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 - Browser-based Chat Interface
 
 ---
+
+# ⚠️ Current Limitations
+
+Maya V1 is an early-stage implementation whose primary goal is to learn and implement Transformer architectures from first principles rather than to compete with production-scale language models.
+
+Current limitations include:
+
+- Limited training corpus (~16K conversational samples)
+- Responses may occasionally be repetitive or lack contextual understanding
+- Limited factual and domain-specific knowledge
+- No retrieval or external knowledge integration
+- No long-term conversational memory
+- Reasoning capabilities are limited compared to modern LLMs
+
+Despite these limitations, Maya V1 demonstrates a complete end-to-end implementation of a Transformer-based conversational AI, including custom tokenization, training, inference, and decoding implemented entirely in Python and NumPy.
+
+----
 
 # 📂 Repository Structure
 
