@@ -121,11 +121,10 @@ Despite these limitations, Maya V1 demonstrates a complete end-to-end implementa
 ```
 Maya/
 │
-├── README.md
-├── Demo.md
-│
 ├── Maya_v1/
 │   ├── app.py
+|   |── Demo.md
+|   |── README.md
 │   ├── chatbot_engine.py
 │   ├── requirements.txt
 │   ├── templates/
