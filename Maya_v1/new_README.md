@@ -141,7 +141,7 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 <img src="images/chatbot1.png" width="70%"/>
 
 ### Sample Conversation
-<img src="images/chatbot1.png" width="70%"/>
+<img src="images/chatbot2.png" width="70%"/>
 
 </div>
 
@@ -221,8 +221,8 @@ A demonstration of Maya V1 is available in **[Demo.md](Maya_v1/Demo.md)**.
 
 ```mermaid
 flowchart LR
-    A[✅ Maya V1<br/>Transformer chatbot] --> B[🚧 Maya V2<br/>Better quality & data]
-    B --> C[🚧 Maya V3<br/>RAG · Memory · Tools]
+    A[✅ Maya V1<br/>Transformer chatbot] --> B[🚧 Maya V2<br/>Intent · Routing · Context]
+    B --> C[🚧 Maya V3<br/>RAG · Tools · DBMS · Voice]
 ```
 
 <details open>
@@ -241,6 +241,9 @@ flowchart LR
 <summary><b>🚧 Maya V2 — Planned Improvements</b></summary>
 <br/>
 
+- Intent Classification
+- Expert Model Routing
+- History & Context Management
 - Improved conversational quality
 - Larger and more diverse conversational datasets
 - Better decoding strategies
@@ -254,13 +257,12 @@ flowchart LR
 <summary><b>🚧 Maya V3 — Long-Term Objectives</b></summary>
 <br/>
 
-- Intent Classification
-- Expert Model Routing
 - Retrieval-Augmented Generation (RAG)
-- Long-Term Memory
-- Database Integration
-- External API Integration
 - Tool Calling
+- DBMS Integration
+- Voice Search
+- Long-Term Memory
+- External API Integration
 - Modular AI Assistant Architecture
 
 </details>
