@@ -137,11 +137,17 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 
 <div align="center">
 
+<details>
+<summary><b>🖱️ Click to view chatbot screenshots</b></summary>
+<br/>
+
 ### Greeting Conversation
 <img src="images/chatbot1.png" width="70%"/>
 
 ### Sample Conversation
 <img src="images/chatbot2.png" width="70%"/>
+
+</details>
 
 </div>
 
@@ -302,6 +308,8 @@ If you discover a bug or have ideas for improving Maya, feel free to open an iss
 Student, IIT (ISM) Dhanbad
 
 [![GitHub](https://img.shields.io/badge/GitHub-alokkumar--project-181717?style=for-the-badge&logo=github)](https://github.com/alokkumar-project)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alok%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-753840378/)
+[![Email](https://img.shields.io/badge/Email-alokkumar111200604%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alokkumar111200604@gmail.com)
 
 <br/>
 
