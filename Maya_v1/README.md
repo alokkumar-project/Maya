@@ -87,15 +87,16 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 - Flask Backend
 - Browser-based Chat Interface
 
+
 ## 📸 Screenshots
 
 ### Greeting Conversation
 
-![Greetng Conversation](Maya_v1/images/chatbot1.png)
+![Greeting Conversation](Maya_v1/images/chatbot1.png)
 
 ### Sample Conversation
 
-![Conversation](Maya_v1/images/chatbot1.png)
+![Sample Conversation](Maya_v1/images/chatbot2.png)
 
 ---
 
