@@ -1,10 +1,16 @@
-<div align="center">
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
+</p>
 
-<img src="images/maya_logo.png" width="180"/>
+<p align="center">
+<img src="images/maya_logo.png" width="180" />
+</p>
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Encoder-Decoder+Transformer+from+scratch;Custom+BPE+Tokenizer+%2B+NumPy+only;Greedy+%26+Beam+Search+Decoding;2.91M+parameters%2C+zero+deep+learning+frameworks;Built+by+a+student%2C+layer+by+layer.&font=Fira+Code&center=true&width=780&height=50&duration=3000&pause=1000&color=58A6FF&vCenter=true&size=22&repeat=true"/>
+</p>
+
+<div align="center">
 
 <br/>
 
@@ -131,11 +137,11 @@ The combined dataset focuses on open-domain dialogue, enabling Maya to respond n
 
 <div align="center">
 
-### Sample Conversation
+### Greeting Conversation
 <img src="images/chatbot1.png" width="70%"/>
 
 ### Sample Conversation
-<img src="images/chatbot2.png" width="70%"/>
+<img src="images/chatbot1.png" width="70%"/>
 
 </div>
 
