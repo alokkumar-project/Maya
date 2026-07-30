@@ -314,19 +314,19 @@ If you discover a bug or have ideas for improving Maya, feel free to open an iss
   <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/alok-kumar-753840378/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
+<br>
 
 <a href="mailto:alokkumar111200604@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=alokkumar-project&style=for-the-badge&color=blueviolet&label=Repo+Views"/>
 
