@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maya Admin Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body class="admin-body">
+
+<div class="admin-wrap">
+  <header class="admin-header">
+    <h1>Maya Admin Dashboard</h1>
+    <div class="admin-header-actions">
+      <span class="refresh-note" id="refreshNote">Live · updates every 5s</span>
+      <a class="logout-link" href="{{ url_for('admin_logout') }}">Log out</a>
+    </div>
+  </header>
+
+  <section class="stat-grid" id="statGrid">
+    <div class="stat-card">
+      <div class="stat-icon"><span id="statusDotAdmin" class="dot"></span></div>
+      <div class="stat-label">Status</div>
+      <div class="stat-value" id="s-status">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">👥</div>
+      <div class="stat-label">Active Users</div>
+      <div class="stat-value" id="s-active">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">🌍</div>
+      <div class="stat-label">Total Visitors</div>
+      <div class="stat-value" id="s-visitors">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">💬</div>
+      <div class="stat-label">Messages Today</div>
+      <div class="stat-value" id="s-msg-today">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">📨</div>
+      <div class="stat-label">Total Messages</div>
+      <div class="stat-value" id="s-msg-total">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">🧠</div>
+      <div class="stat-label">Model Loaded</div>
+      <div class="stat-value" id="s-model">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">⚡</div>
+      <div class="stat-label">Avg Response</div>
+      <div class="stat-value" id="s-avg-resp">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">💾</div>
+      <div class="stat-label">RAM Usage</div>
+      <div class="stat-value" id="s-ram">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">🔥</div>
+      <div class="stat-label">CPU Usage</div>
+      <div class="stat-value" id="s-cpu">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-icon">⏱️</div>
+      <div class="stat-label">Uptime</div>
+      <div class="stat-value" id="s-uptime">—</div>
+    </div>
+  </section>
+
+  <section class="panels">
+    <div class="panel">
+      <h2>Recent Chats</h2>
+      <div class="panel-body" id="recentChats">
+        <div class="empty-row">No messages yet.</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Top Questions</h2>
+      <div class="panel-body" id="topQuestions">
+        <div class="empty-row">No data yet.</div>
+      </div>
+    </div>
+
+    <div class="panel">
+      <h2>Countries</h2>
+      <div class="panel-body" id="countries">
+        <div class="empty-row">No data yet.</div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script src="{{ url_for('static', filename='js/admin.js') }}"></script>
+</body>
+</html>

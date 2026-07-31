@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maya Admin Login</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body class="admin-login-body">
+  <div class="login-card">
+    <div class="login-logo">🛡️</div>
+    <h1>Maya Admin</h1>
+    <p class="login-sub">Enter the admin password to continue</p>
+
+    {% if error %}
+      <div class="login-error">{{ error }}</div>
+    {% endif %}
+
+    <form method="POST" class="login-form">
+      <input
+        type="password"
+        name="password"
+        placeholder="Admin password"
+        autocomplete="current-password"
+        autofocus
+        required
+      >
+      <button type="submit">Sign in</button>
+    </form>
+  </div>
+</body>
+</html>
