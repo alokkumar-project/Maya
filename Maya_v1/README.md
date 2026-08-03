@@ -25,6 +25,25 @@
 
 </div>
 
+<br/>
+
+<!-- 🔥 LIVE DEMO — TOP CALL TO ACTION 🔥 -->
+<div align="center">
+
+### 💬 Talk to Maya right now — no install, no setup!
+
+<a href="https://maya-xklr.onrender.com">
+  <img src="https://img.shields.io/badge/🚀_TRY_MAYA_LIVE-Click_to_Chat-58A6FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" alt="Try Maya Live" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://youtu.be/-I70Qu9lN6I">
+  <img src="https://img.shields.io/badge/▶️_WATCH_DEMO-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="Watch Demo Video" height="55"/>
+</a>
+
+<sub>⭐ If Maya impresses you, consider starring the repo — it means a lot!</sub>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
 
 ## 🚀 Key Highlights
@@ -214,15 +233,6 @@ Then open your browser at:
 ```
 http://127.0.0.1:5000
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
-
-## 🎥 Demo
-
-Watch Maya V1 in action:
-
-**▶️ Watch Maya V1 Demo:** https://youtu.be/-I70Qu9lN6I
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=2&width=100%"/>
 
